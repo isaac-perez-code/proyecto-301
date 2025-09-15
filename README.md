@@ -20,7 +20,7 @@ Plataforma de streaming inspirada en Netflix, desarrollada como proyecto académ
 ``` bash git clone https://github.com/isaac-perez-code/isaacfilm.git ```
 
 
-### LICENSE**
+## LICENSE
 2.
 ```markdown
 MIT License
@@ -28,6 +28,7 @@ MIT License
 Copyright (c) 2025 Isaac
 
 Permiso concedido libre de cargos... 
+
 
 
 
