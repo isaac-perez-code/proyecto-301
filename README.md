@@ -17,10 +17,16 @@ Plataforma de streaming inspirada en Netflix, desarrollada como proyecto académ
 
 ## 📦 Instalación
 1. Clona el repositorio:
-```bash
-git clone https://github.com/isaac-perez-code/isaacfilm.git ```
+``` bash git clone https://github.com/isaac-perez-code/isaacfilm.git ```
 
-## Autores
-- Isaac Pérez 
+
+### **3. LICENSE**
+```markdown
+MIT License
+
+Copyright (c) 2025 Isaac
+
+Permiso concedido libre de cargos... 
+
 
 
